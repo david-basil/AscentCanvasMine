@@ -1,0 +1,14 @@
+.Node {
+    display: flex;
+    /*background-color: #4be0b649;*/
+    background-color: inherit;
+    border-radius: 12px;
+    padding: 8px 0px;
+}
+
+.Inputs {
+    display: flex;
+    align-items: center;
+    color: #15cdca;
+    font-size: 120%;
+}

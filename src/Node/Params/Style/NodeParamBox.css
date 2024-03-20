@@ -1,0 +1,30 @@
+.NodeParamBox {
+    background-color: #4be0b649;
+    border-style: solid;
+    border-color: #4be0b649;
+    border-radius: 12px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+    padding-left: 4px;
+}
+
+.EmptyParamBox {
+    display: none;
+}
+
+select {
+    background-color: #4be0b649;
+    border-color: #4be0b649;
+    border-radius: 6px;
+}
+
+option:hover {
+    background-color: blue !important;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 10px;
+}

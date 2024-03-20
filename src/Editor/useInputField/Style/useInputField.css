@@ -1,0 +1,19 @@
+.InputBox {
+    display: flex;
+    align-items: center;
+}
+
+input {
+    padding: 1px 0 1px 2px;
+    width: 80px;
+    border: 2px solid #4f80e2;
+    border-radius: 4px;
+    color: black;
+    margin: 0px 4px 0px 4px
+}
+input:focus {
+    outline-offset: 1px;
+    outline: 0px;
+    /*outline: 3px solid #4f80e277 !important;*/
+    /*border-radius: 2px;*/
+}

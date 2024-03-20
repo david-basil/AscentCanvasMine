@@ -1,0 +1,29 @@
+.Editor {
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+}
+
+.NodeCanvas {
+    width: 65%;
+    height: 100%;
+}
+
+.NodeExpression {
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.Graph {
+    padding-left: 20px;
+    height: 80%;
+}
+
+.SidePane {
+    text-align: left;
+    width: 30%;
+    height: 100%;
+    background-color: #4be0b649;
+    border-color: #4be0b649;
+    border-style: solid;
+}
